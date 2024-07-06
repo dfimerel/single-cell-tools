@@ -37,3 +37,14 @@ An always expanding list of software packages for single-cell analysis
 - [SCell](https://github.com/diazlab/SCell) - An integrated software tool for quality filtering, normalization, feature selection, iterative dimensionality reduction, clustering and the estimation of gene-expression gradients from large ensembles of single-cell RNA-seq datasets.
 - [Falco](https://github.com/VCCRI/Falco) - A quick and flexible single-cell RNA-seq processing framework on the cloud.
 - [kallisto](https://github.com/pachterlab/kallisto) - A program for quantifying abundances of transcripts from RNA-Seq data, or more generally of target sequences using high-throughput sequencing reads.
+
+## Interactive tools
+- [ezSingleCell](https://www.nature.com/articles/s41467-024-48188-2) - An integrated one-stop single-cell and spatial omics analysis platform for bench scientists.
+- [ShIVA](https://www.nature.com/articles/s41598-023-40959-z) - A user-friendly and interactive interface giving biologists control over their single-cell RNA-seq data.
+- [Cellar](https://www.nature.com/articles/s41467-022-29744-0) - Interactive single-cell data analysis using Cellar.
+- [SCiAp](https://www.nature.com/articles/s41592-021-01102-w) - User-friendly, scalable tools and workflows for single-cell RNA-seq analysis.
+- [ASAP](https://asap.epfl.ch/) - A collaborative portal to analyze single-cell transcriptomics data.
+- [alona](https://academic.oup.com/bioinformatics/article/36/12/3910/5824295) - alona: a web server for single-cell RNA-seq analysis.
+- [SCTK](https://www.camplab.net/sctk/) - Provides a uniform interface to several popular tools and workflows for comprehensive analysis of single cell RNA-seq data.
+- [Asc-Seurat](https://asc-seurat.readthedocs.io/en/latest/index.html) - Analytical single-cell Seurat-based web application.
+- [ICARUS](https://academic.oup.com/nar/article/50/W1/W427/6583234) - An interactive web server for single cell RNA-seq analysis.
