@@ -30,13 +30,14 @@ An always expanding list of software packages for single-cell analysis
 - [scirpy](https://github.com/scverse/scirpy) - A package to analyse T cell receptor (TCR) or B cell receptor (BCR) repertoires from single-cell RNA sequencing (scRNA-seq) data in Python.
 - [scTCRseq](https://github.com/ElementoLab/scTCRseq)  - an implementation of a pipeline for Single-cell RNAseq package for recovering TCR data in python.
 - [scVelo](https://github.com/theislab/scvelo) - A scalable toolkit for RNA velocity analysis in single cells.
-
+- [Panpipes](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03322-7#availability-of-data-and-materials) - A pipeline for multiomic single-cell and spatial transcriptomic data analysis
 
   
 ## Software in other language
 - [SCell](https://github.com/diazlab/SCell) - An integrated software tool for quality filtering, normalization, feature selection, iterative dimensionality reduction, clustering and the estimation of gene-expression gradients from large ensembles of single-cell RNA-seq datasets.
 - [Falco](https://github.com/VCCRI/Falco) - A quick and flexible single-cell RNA-seq processing framework on the cloud.
 - [kallisto](https://github.com/pachterlab/kallisto) - A program for quantifying abundances of transcripts from RNA-Seq data, or more generally of target sequences using high-throughput sequencing reads.
+
 
 ## Interactive tools
 - [ezSingleCell](https://www.nature.com/articles/s41467-024-48188-2) - An integrated one-stop single-cell and spatial omics analysis platform for bench scientists.
